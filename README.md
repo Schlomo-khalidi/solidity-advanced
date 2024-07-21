@@ -1,3 +1,1 @@
-Introduction
-Protocol Name: T-REX protocol
-Category: RWA Tokenization
+<h1>Introduction</h1>
